@@ -9,6 +9,10 @@ html,
 body {
   margin: 0;
   height: 100%;
+  padding: 0;
+  height: 100vh;
+  justify-content: center;
+
 
 }
 
@@ -23,7 +27,7 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: #00BAF0;
-  background: rgb(0, 0, 0);
+  background: white;
   color: #FFF;
   height: 50px;
   padding: 1em;
@@ -60,7 +64,7 @@ body {
 .menu-button::before,
 .menu-button::after {
   display: block;
-  background-color: #fff;
+  background-color: red;
   position: absolute;
   height: 4px;
   width: 30px;
@@ -139,7 +143,6 @@ body {
 }
 
 .my-a {
-  text-decoration: none;
   color: rgb(0, 0, 0);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -149,13 +152,25 @@ body {
 }
 
 img.pages-img {
-  width: 100px;
+  width: 150px;
+  height: 20px;
 }
 
 .pages-map {
-  width: 70px;
+  width: 100px;
+  height: 20px;
 }
 
 .pages-agents {
-  width: 80px;
+  width: 120px;
+}
+
+.hrburhan {
+  border: none;
+  width: 100%;
+  height: 55px;
+  margin-top: 2px;
+  border-bottom: 1px solid #1f1209;
+  box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px;
 }

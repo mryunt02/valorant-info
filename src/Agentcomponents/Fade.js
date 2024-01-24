@@ -7,7 +7,7 @@ import fade from "../images/fade.png";
 import deadlock from "../images/deadlock.png";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Link } from 'react-router-dom';
-function Agents(props) {
+function Fade(props) {
     let { data, value } = props
     return (
         <div style={{ background: '#959595' }}>
@@ -21,8 +21,7 @@ function Agents(props) {
                             <div className='content'>
                                 <div style={{ marginTop: '-250px' }}>
                                     <h3>// Choose An Agent</h3>
-                                    <Link to={"/jett"}><img src={jett} className='agent-little-images' style={{ width: '50px', display: 'flex', flexGrow: 'row' }}></img></Link>
-
+                                    <Link to={"/jett"} relative='route'><img src={jett} className='agent-little-images' style={{ width: '50px', display: 'flex', flexGrow: 'row' }}></img></Link>
                                     <Link to={"/agents"}><img src={gekko} className='agent-little-images' style={{ width: '50px', display: 'flex', flexGrow: 'row' }}></img></Link>
                                     <Link to={"/breach"}><img src={breach} className='agent-little-images' style={{ width: '50px', display: 'flex', flexGrow: 'row' }}></img></Link>
                                     <Link to={"/fade"}><img src={fade} className='agent-little-images' style={{ width: '50px', display: 'flex', flexGrow: 'row' }}></img></Link>
@@ -91,4 +90,4 @@ function Agents(props) {
     )
 }
 
-export default Agents;
+export default Fade;

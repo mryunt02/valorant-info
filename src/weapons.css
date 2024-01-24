@@ -1,0 +1,102 @@
+body {
+    background-color: #121212;
+}
+
+.weapon-first-div {
+    height: 100%;
+
+
+}
+
+.big-div {
+    display: flex;
+    flex-direction: column;
+    margin-right: 360px;
+    margin-left: 200px;
+}
+
+.biggest-div {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px
+}
+
+.weapon-icon {
+    width: 600px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position-y: -10px;
+    background-size: contain;
+}
+
+table,
+td {
+    border: 1px solid;
+}
+
+table {
+    width: 200px;
+}
+
+.table-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.burhan-div {
+    width: 100%;
+    background-color: #ddd;
+}
+
+.burhan-iki {
+    height: 8px;
+    background-color: #04AA6D;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+
+}
+
+.td-table {
+    display: flex;
+    justify-content: center;
+    border: none;
+    font-size: 20px;
+    background: white;
+    color: #45a763;
+    font-weight: bold
+}
+
+.th {
+    border: solid;
+    color: white;
+    background: #45a763
+}
+
+.little-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.range-div {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.sec-div {
+    background: white;
+    color: #45a763;
+    font-weight: bold
+}
+
+.table-tdler {
+    background: white;
+    color: #45a763;
+    font-weight: bold
+}
+
+.weapons-h1 {
+    color: rgb(143, 143, 143);
+}
