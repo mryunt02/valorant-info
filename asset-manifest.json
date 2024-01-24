@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/valorant-info/static/css/main.796cddac.css",
+    "main.js": "/valorant-info/static/js/main.bb8616a0.js",
+    "static/js/787.a031268e.chunk.js": "/valorant-info/static/js/787.a031268e.chunk.js",
+    "static/media/valorantvideo.mp4": "/valorant-info/static/media/valorantvideo.97051694979909504d98.mp4",
+    "static/media/valoback.mp4": "/valorant-info/static/media/valoback.0aeed8e2411967c1cba4.mp4",
+    "static/media/deadlock.png": "/valorant-info/static/media/deadlock.a5f445dd5d1f943e7c58.png",
+    "static/media/fade.png": "/valorant-info/static/media/fade.16cca611eb49f4258970.png",
+    "static/media/breach.png": "/valorant-info/static/media/breach.57401655252f7048b902.png",
+    "static/media/displayiconsheriff.png": "/valorant-info/static/media/displayiconsheriff.d7e77f43a2bb549aef8a.png",
+    "static/media/displayiconjett.png": "/valorant-info/static/media/displayiconjett.77dfa56d7828f7c0cb0e.png",
+    "static/media/displayicongekko.png": "/valorant-info/static/media/displayicongekko.cbf8a43b3ec605e2632c.png",
+    "static/media/gekko.png": "/valorant-info/static/media/gekko.cbf8a43b3ec605e2632c.png",
+    "static/media/displayiconvandal.png": "/valorant-info/static/media/displayiconvandal.01adf153050c555040e5.png",
+    "static/media/valorant.png": "/valorant-info/static/media/valorant.841f79f8e23ed9781458.png",
+    "index.html": "/valorant-info/index.html",
+    "main.796cddac.css.map": "/valorant-info/static/css/main.796cddac.css.map",
+    "main.bb8616a0.js.map": "/valorant-info/static/js/main.bb8616a0.js.map",
+    "787.a031268e.chunk.js.map": "/valorant-info/static/js/787.a031268e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796cddac.css",
+    "static/js/main.bb8616a0.js"
+  ]
+}
